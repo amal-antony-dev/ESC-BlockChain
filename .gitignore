@@ -1,2 +1,7 @@
 
 MiddleLayer/ .env
+
+# Secrets and dependencies
+.env
+**/.env
+node_modules/
